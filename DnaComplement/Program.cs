@@ -29,7 +29,7 @@ static string MakeComplement(string dna)
 System.Console.WriteLine($"ATTGC: {MakeComplement("ATTGC")}");
 System.Console.WriteLine($"GTAT: {MakeComplement("GTAT")}");
 
-static string MakeComplementLINQ(string dna)
+static string MakeComplementSwitch(string dna)
 {
   dna.ToUpper();
   string result = String.Empty;
@@ -57,8 +57,8 @@ static string MakeComplementLINQ(string dna)
   return result;
 }
 
-System.Console.WriteLine($"ATTGC: {MakeComplementLINQ("ATTGC")}");
-System.Console.WriteLine($"GTAT: {MakeComplementLINQ("GTAT")}");
+System.Console.WriteLine($"ATTGC: {MakeComplementSwitch("ATTGC")}");
+System.Console.WriteLine($"GTAT: {MakeComplementSwitch("GTAT")}");
 
 
 //Community answer user Artoria
