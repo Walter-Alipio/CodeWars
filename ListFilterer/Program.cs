@@ -17,3 +17,10 @@ static IEnumerable<int> GetIntegersFromList(List<object> listOfItems)
 Console.WriteLine(GetIntegersFromList(list1));
 System.Console.WriteLine(' ');
 Console.WriteLine(GetIntegersFromList(list2));
+
+//Community solution from user SOV87
+// static IEnumerable<int> GetIntegersFromList2(List<object> listOfItems)
+// {
+
+//   return listOfItems.OfType<int>().Where(x => x >= 0);
+// }
