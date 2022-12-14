@@ -15,15 +15,19 @@ public class Hakonacci
       return signature;
     }
 
+    var sequenceLength = signature.Length;
+
     n -= 3;
     List<double> sequence = new List<double>(signature);
     for (int i = 0; i < n; i++)
     {
       sequence.Add(
-        (sequence[sequence.Count - 1]) +
-        (sequence[sequence.Count - 2]) +
-        (sequence[sequence.Count - 3])
+        (sequence[sequenceLength - 1]) +
+        (sequence[sequenceLength - 2]) +
+        (sequence[sequenceLength - 3])
         );
+
+      sequenceLength++;
     }
 
     // hackonacci me
