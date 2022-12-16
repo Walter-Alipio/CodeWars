@@ -24,6 +24,7 @@
   <ItemGroup>
     <ProjectReference Include="..\findOutlier\findOutlier.csproj" />
     <ProjectReference Include="..\Xbonacci\Xbonacci.csproj" />
+    <ProjectReference Include="..\IsPangram\IsPangram.csproj" />
   </ItemGroup>
 
 </Project>
