@@ -28,4 +28,5 @@ public class KataIsPangram
        .Distinct()
        .Count() == 26;
   }
+
 }
