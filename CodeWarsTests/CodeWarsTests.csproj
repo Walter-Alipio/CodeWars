@@ -27,6 +27,7 @@
     <ProjectReference Include="..\IsPangram\IsPangram.csproj" />
     <ProjectReference Include="..\findOdd\findOdd.csproj" />
     <ProjectReference Include="..\Multiples3or5\Multiples3or5.csproj" />
+    <ProjectReference Include="..\RomanConvert\RomanConvert.csproj" />
   </ItemGroup>
 
 </Project>
