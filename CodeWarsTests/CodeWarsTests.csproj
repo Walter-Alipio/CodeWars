@@ -29,6 +29,7 @@
     <ProjectReference Include="..\Multiples3or5\Multiples3or5.csproj" />
     <ProjectReference Include="..\RomanConvert\RomanConvert.csproj" />
     <ProjectReference Include="..\RgbConvert\RgbConvert.csproj" />
+    <ProjectReference Include="..\Alphanumeric\Alphanumeric.csproj" />
   </ItemGroup>
 
 </Project>
