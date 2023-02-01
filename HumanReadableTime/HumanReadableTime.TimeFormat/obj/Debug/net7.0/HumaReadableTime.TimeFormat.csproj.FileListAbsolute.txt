@@ -1,0 +1,12 @@
+/home/walter/C#/CodeWars/HumaReadableTime/HumaReadableTime.TimeFormat/bin/Debug/net7.0/HumaReadableTime.TimeFormat.deps.json
+/home/walter/C#/CodeWars/HumaReadableTime/HumaReadableTime.TimeFormat/bin/Debug/net7.0/HumaReadableTime.TimeFormat.dll
+/home/walter/C#/CodeWars/HumaReadableTime/HumaReadableTime.TimeFormat/bin/Debug/net7.0/HumaReadableTime.TimeFormat.pdb
+/home/walter/C#/CodeWars/HumaReadableTime/HumaReadableTime.TimeFormat/obj/Debug/net7.0/HumaReadableTime.TimeFormat.csproj.AssemblyReference.cache
+/home/walter/C#/CodeWars/HumaReadableTime/HumaReadableTime.TimeFormat/obj/Debug/net7.0/HumaReadableTime.TimeFormat.GeneratedMSBuildEditorConfig.editorconfig
+/home/walter/C#/CodeWars/HumaReadableTime/HumaReadableTime.TimeFormat/obj/Debug/net7.0/HumaReadableTime.TimeFormat.AssemblyInfoInputs.cache
+/home/walter/C#/CodeWars/HumaReadableTime/HumaReadableTime.TimeFormat/obj/Debug/net7.0/HumaReadableTime.TimeFormat.AssemblyInfo.cs
+/home/walter/C#/CodeWars/HumaReadableTime/HumaReadableTime.TimeFormat/obj/Debug/net7.0/HumaReadableTime.TimeFormat.csproj.CoreCompileInputs.cache
+/home/walter/C#/CodeWars/HumaReadableTime/HumaReadableTime.TimeFormat/obj/Debug/net7.0/HumaReadableTime.TimeFormat.dll
+/home/walter/C#/CodeWars/HumaReadableTime/HumaReadableTime.TimeFormat/obj/Debug/net7.0/refint/HumaReadableTime.TimeFormat.dll
+/home/walter/C#/CodeWars/HumaReadableTime/HumaReadableTime.TimeFormat/obj/Debug/net7.0/HumaReadableTime.TimeFormat.pdb
+/home/walter/C#/CodeWars/HumaReadableTime/HumaReadableTime.TimeFormat/obj/Debug/net7.0/ref/HumaReadableTime.TimeFormat.dll
