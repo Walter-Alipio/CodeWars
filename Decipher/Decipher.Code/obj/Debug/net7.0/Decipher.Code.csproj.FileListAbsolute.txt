@@ -1,0 +1,12 @@
+/home/walter/C#/CodeWars/Decipher/Decipher.Code/bin/Debug/net7.0/Decipher.Code.deps.json
+/home/walter/C#/CodeWars/Decipher/Decipher.Code/bin/Debug/net7.0/Decipher.Code.dll
+/home/walter/C#/CodeWars/Decipher/Decipher.Code/bin/Debug/net7.0/Decipher.Code.pdb
+/home/walter/C#/CodeWars/Decipher/Decipher.Code/obj/Debug/net7.0/Decipher.Code.csproj.AssemblyReference.cache
+/home/walter/C#/CodeWars/Decipher/Decipher.Code/obj/Debug/net7.0/Decipher.Code.GeneratedMSBuildEditorConfig.editorconfig
+/home/walter/C#/CodeWars/Decipher/Decipher.Code/obj/Debug/net7.0/Decipher.Code.AssemblyInfoInputs.cache
+/home/walter/C#/CodeWars/Decipher/Decipher.Code/obj/Debug/net7.0/Decipher.Code.AssemblyInfo.cs
+/home/walter/C#/CodeWars/Decipher/Decipher.Code/obj/Debug/net7.0/Decipher.Code.csproj.CoreCompileInputs.cache
+/home/walter/C#/CodeWars/Decipher/Decipher.Code/obj/Debug/net7.0/Decipher.Code.dll
+/home/walter/C#/CodeWars/Decipher/Decipher.Code/obj/Debug/net7.0/refint/Decipher.Code.dll
+/home/walter/C#/CodeWars/Decipher/Decipher.Code/obj/Debug/net7.0/Decipher.Code.pdb
+/home/walter/C#/CodeWars/Decipher/Decipher.Code/obj/Debug/net7.0/ref/Decipher.Code.dll
