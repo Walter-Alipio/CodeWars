@@ -1,0 +1,12 @@
+/home/walter/C#/CodeWars/MeanSquareError/MeanSquare/bin/Debug/net7.0/MeanSquare.deps.json
+/home/walter/C#/CodeWars/MeanSquareError/MeanSquare/bin/Debug/net7.0/MeanSquare.dll
+/home/walter/C#/CodeWars/MeanSquareError/MeanSquare/bin/Debug/net7.0/MeanSquare.pdb
+/home/walter/C#/CodeWars/MeanSquareError/MeanSquare/obj/Debug/net7.0/MeanSquare.csproj.AssemblyReference.cache
+/home/walter/C#/CodeWars/MeanSquareError/MeanSquare/obj/Debug/net7.0/MeanSquare.GeneratedMSBuildEditorConfig.editorconfig
+/home/walter/C#/CodeWars/MeanSquareError/MeanSquare/obj/Debug/net7.0/MeanSquare.AssemblyInfoInputs.cache
+/home/walter/C#/CodeWars/MeanSquareError/MeanSquare/obj/Debug/net7.0/MeanSquare.AssemblyInfo.cs
+/home/walter/C#/CodeWars/MeanSquareError/MeanSquare/obj/Debug/net7.0/MeanSquare.csproj.CoreCompileInputs.cache
+/home/walter/C#/CodeWars/MeanSquareError/MeanSquare/obj/Debug/net7.0/MeanSquare.dll
+/home/walter/C#/CodeWars/MeanSquareError/MeanSquare/obj/Debug/net7.0/refint/MeanSquare.dll
+/home/walter/C#/CodeWars/MeanSquareError/MeanSquare/obj/Debug/net7.0/MeanSquare.pdb
+/home/walter/C#/CodeWars/MeanSquareError/MeanSquare/obj/Debug/net7.0/ref/MeanSquare.dll
